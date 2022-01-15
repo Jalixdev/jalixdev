@@ -19,7 +19,7 @@ module.exports = Jalix
 <img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalixdev" />
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928360020876341288?hideDiscrim=true)](https://discord.com/users/928360020876341288)
+https://lanyard-profile-readme.vercel.app/api/928360020876341288?hideDiscrim=true (https://discord.com/users/928360020876341288)
 
 
 
