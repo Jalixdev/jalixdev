@@ -1,25 +1,19 @@
-<h2>About Me</h2>
-
 ```js
-class Jalix {
-    constructor(options) {
-        this.name = "Ali",
-        this.sex = "man",
-        this.length = "187",
-        this.type = "human",
-        this.job = "student",
-        this.weight = "73",
-        this.age = "19",
-        this.discord.tag = "Jalix#0001"
-    };
+class jalix{
+  constructor(...options) {
+    this.height = "1.87"
+    this.weight = "73"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
 }
-
-module.exports = Jalix
 ```
-<img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalixdev" />
+
+<img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalidev" />
 
 
-https://lanyard-profile-readme.vercel.app/api/928360020876341288?hideDiscrim=true (https://discord.com/users/928360020876341288)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928360020876341288?hideDiscrim=true)](https://discord.com/users/928360020876341288)
 
 
 
@@ -31,4 +25,3 @@ https://lanyard-profile-readme.vercel.app/api/928360020876341288?hideDiscrim=tru
 <h3>🌟 Contacts!</h3>
 <p align="center">
      <a href="https://www.instagram.com/jalixtc" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-
