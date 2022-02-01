@@ -14,8 +14,12 @@ class jalix{
 
 
 <div align="center">
-    <a href="https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288/"></a>
+ <a href="(https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288"></a>
 </div>
+
+<h3>My Personal accounts:</h3>
+<p align="left">
+   <a href="https://discord.com/users/928360020876341288" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
 
