@@ -13,7 +13,7 @@ class jalix{
 <img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalidev" />
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/928360020876341288)](https://discord.com/users/928360020876341288)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928360020876341288?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/928360020876341288)
 
 <h3>My Personal accounts:</h3>
 <p align="left">
