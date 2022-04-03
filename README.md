@@ -13,5 +13,5 @@ Hi, my name is Ali and I'm 18. I started software development 2 year ago with de
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 
 <img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalidev"/>
- <img src="https://komarev.com/ghpvc/?username=jalixdev&color=dc143c"/>
+
 
