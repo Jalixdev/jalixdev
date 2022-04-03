@@ -11,15 +11,14 @@ class jalix{
   }
 }
 ```
-<div align="center">
-    <a href="https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288"></a>
-</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalidev" />
 
 <h3>My Discord accounts:</h3>
-<p align="left">
-   <a href="https://discord.com/users/928360020876341288" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<div align="center">
+    <a href="https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288"></a>
+</div>
 
 
 
