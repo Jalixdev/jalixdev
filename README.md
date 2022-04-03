@@ -2,11 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=jalixdev&color=dc143c"/>
  <a href="https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288"></a>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jalixdev&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalixdev&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=jalixdev&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+ <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalixdev&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+
 
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
