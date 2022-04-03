@@ -1,3 +1,8 @@
+<h3>My Discord accounts:</h3>
+<div align="center">
+    <a href="https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288"></a>
+</div>
+
 ```js
 class jalix{
   constructor(...options) {
@@ -12,16 +17,6 @@ class jalix{
 }
 ```
 
-
-<img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalidev" />
-
-<h3>My Discord accounts:</h3>
-<div align="center">
-    <a href="https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288"></a>
-</div>
-
-
-
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
@@ -30,3 +25,4 @@ class jalix{
 <h3>🌟 Contacts!</h3>
 <p align="center">
      <a href="https://www.instagram.com/jalixtc" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=jalixdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="jalidev" />
