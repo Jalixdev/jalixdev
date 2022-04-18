@@ -1,6 +1,6 @@
 Hi, my name is Ali and I'm 18. I started software development 2 year ago with developing Discord bots. I'm a JavaScript developer. 
 
-<a href="https://discord.com/users/928360020876341288" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/928360020876341288"></a>
+<a href="https://discord.com/users/916973708441182249" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/916973708441182249"></a>
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=jalixdev&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
