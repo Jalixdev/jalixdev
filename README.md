@@ -1,4 +1,4 @@
-Hi, my name is Ali and I'm 18. I started software development 2 year ago with developing Discord bots. I'm a JavaScript developer. 
+Hi, my name is Tolga and I'm 18. I started software development 2 year ago with developing Discord bots. I'm a JavaScript developer. 
 
 <a href="https://discord.com/users/816216199191855155" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/816216199191855155"></a>
 
