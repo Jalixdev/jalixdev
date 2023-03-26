@@ -1,8 +1,8 @@
 ```js
 jalix =new MessageEmbed()
-        .setName = "Sokucu",
+        .setName = "Ali",
         .setAge = "20",
-        .setDiscord = "Jalix#0105"
+        .setJop = "Developer, Designer"
     };
 }
 ```
