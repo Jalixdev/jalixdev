@@ -3,8 +3,6 @@ jalix =new MessageEmbed()
         .setName = "Ali",
         .setAge = "20",
         .setJop = "Developer, Designer",
-    };
-}
 ```
 
 <a href="https://discord.com/users/816216199191855155" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/816216199191855155"></a>
