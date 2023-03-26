@@ -2,7 +2,7 @@
 jalix =new MessageEmbed()
         .setName = "Ali",
         .setAge = "20",
-        .setJop = "Developer, Designer"
+        .setJop = "Developer, Designer",
     };
 }
 ```
