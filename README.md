@@ -4,7 +4,7 @@
 Owner Of Code Artz Team.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codeartz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jalixsarsilmaz) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wesy)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/816216199191855155?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/816216199191855155)
 
